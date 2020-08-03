@@ -11,3 +11,5 @@
   - Psychology enthusiast 🧠
   - Friends addicted 📺
   - It's always time for coffee ☕
+  
+ <img align="right" width="300" height="300" src="https://www.adaptivitypro.com/wp-content/themes/apro/assets/img/girlGraphic.png?v=23" alt="Dev Girl" />
