@@ -8,7 +8,7 @@
 ### Hi there 👋🏻
 
 - 👩🏻‍💻 Currently working at RioSlum Studio as a Front-End Developer.
-- 💻 Studying React, JavaScript and TypeScript.
+- 💻 Studying React, React Native and TypeScript.
 - ⚡ Fun facts:
   - Former English Teacher 👩🏻‍🏫
   - Psychology enthusiast 🧠
