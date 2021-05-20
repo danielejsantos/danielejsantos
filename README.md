@@ -7,7 +7,7 @@
 
 ### Hi there 👋🏻
 
-- 👩🏻‍💻 Currently working at RioSlum Studio as a Front-End Developer.
+- 👩🏻‍💻 Currently working at Árvore as a Front-End Developer.
 - 💻 Today, my main interests are React, TypeScript and REST APIs.
 - ⚡ Fun facts:
   - Former English Teacher 👩🏻‍🏫
