@@ -5,7 +5,7 @@
 
 ### Hi there 👋🏻
 
-- 👩🏻‍💻 Currently working at Árvore as a Front-End Developer.
+- 👩🏻‍💻 Currently working at Arquivei as a Front-End Developer.
 - 💻 Today, my main interests are React and TypeScript.
 - ⚡ Fun facts:
   - Former English Teacher 👩🏻‍🏫
