@@ -5,7 +5,7 @@
 
 ### Hi there 👋🏻
 
-- 👩🏻‍💻 Currently working at Arquivei as a Front-End Developer.
+- 👩🏻‍💻 Working as a Front-End Developer for over the past 3 years now.
 - 💻 Today, my main interests are React and TypeScript.
 - ⚡ Fun facts:
   - Former English Teacher 👩🏻‍🏫
