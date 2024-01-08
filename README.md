@@ -5,7 +5,7 @@
 
 ### Hi there 👋🏻
 
-- 👩🏻‍💻 Working as a Front-End Developer for over the past 3 years now.
+- 👩🏻‍💻 Working as a Front-End Developer for almost 4 years now.
 - 💻 Today, my main interests are React and TypeScript.
 - ⚡ Fun facts:
   - Former English Teacher 👩🏻‍🏫
